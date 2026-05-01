@@ -24,7 +24,7 @@
  ├── data/                               # Tất cả dữ liệu gốc từ Ban Tổ Chức
  ├── src/
  │    ├── MCQs.ipynb                     # Part 1 — Trả lời câu hỏi trắc nghiệm
- │    ├── EDA.ipynb                      # Part 2 — Khám phá và trực quan hóa dữ liệu
+ │    ├── EDA.ipynb                      # Part 2 — Khám phá và trực quan hóa dữ liệu (Cung cấp thông tin cho báo cáo)
  │    ├── Forecast EDA insights.ipynb    # Part 3 — Insight từ EDA phục vụ cho modeling
  │    └── Forecast.ipynb                 # Part 3 — Xây dựng & huấn luyện mô hình dự đoán revenue
  └── README.md
@@ -50,15 +50,17 @@ data/
 ```
 
 **4. Chạy các notebook**
-```
-```
+Mở các file `.ipynb` trong thư mục `src/` bằng Jupyter Notebook, JupyterLab hoặc VS Code.
+Sau đó, trên thanh công cụ:
+- Chọn **Kernel > Restart Kernel and Run All Cells...**  
+  *(hoặc nút **Restart & Run All**)*
 
 ## Thành viên nhóm
 
 | Họ tên | Vai trò |
 |--------|---------|
 | Đinh Bảo Bảo | Trưởng nhóm |
-| Nguyễn Thị Khánh Linh | Phó nhóm |
+| Nguyễn Thị Khánh Linh | Thành viên |
 | Nguyễn Ngọc Minh | Thành viên |
 | Ra Lan Đỗ Tú Trinh | Thành viên |
 
